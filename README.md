@@ -80,5 +80,3 @@ Bot içerisinde yer alan `!duyuru` komutu, **yalnızca belirlenmiş kullanıcı 
 ✔ Discord topluluklarına uygun
 ✔ Geliştirilmeye açık, sade yapı
 
-
-hazırlayabilirim.
