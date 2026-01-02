@@ -1,4 +1,3 @@
-Aşağıda, **İklim Bilgilendirme Botu** projen için Discord’da, GitHub’da veya tanıtım metni olarak rahatça kullanabileceğin **alakalı, detaylı ve estetik bir yazı** hazırladım. İçerik teknik olduğu kadar akıcı ve bilgilendirici olacak şekilde düzenlendi:
 
 ---
 
@@ -79,4 +78,5 @@ Bot içerisinde yer alan `!duyuru` komutu, **yalnızca belirlenmiş kullanıcı 
 ✔ Görsel destekli anlatım
 ✔ Discord topluluklarına uygun
 ✔ Geliştirilmeye açık, sade yapı
+
 
