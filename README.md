@@ -1,4 +1,4 @@
-
+Merhaba Ben Enes 15 Yaşındayım M.L.A.LOkuoyurm İzmirdeyim. Hobilerim Bilgisayar Oyunları Geliştirmek ve Bot Yapmak Ve Güncel Olarak Discord Bot Developerim bununla beraber wep sitesi geliştiriyorum şimdi botu sizlere tanıtayacağım.
 ---
 
 ## 🌍 İklim Bilgilendirme Botu – Türkçe Discord Botu
@@ -78,5 +78,6 @@ Bot içerisinde yer alan `!duyuru` komutu, **yalnızca belirlenmiş kullanıcı 
 ✔ Görsel destekli anlatım
 ✔ Discord topluluklarına uygun
 ✔ Geliştirilmeye açık, sade yapı
+
 
 
